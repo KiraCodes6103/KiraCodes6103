@@ -1,16 +1,43 @@
-## Hi there 👋
 
-<!--
-**KiraCodes6103/KiraCodes6103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm Yashasvi Tripathi 👋
 
-Here are some ideas to get you started:
+I am an aspiring Software Developer with a passion for building scalable applications, AI, machine learning. I love solving real-world problems through code and working with exciting technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 My Skills and Tech Stack
+
+- **Programming Languages**: C, C++, JavaScript, Python 
+- **Web Development**: HTML, CSS, Node.js, Express.js, React.js 
+- **Data & AI**: Pandas, TensorFlow, Vector Database, MongoDB 
+- **Other Skills**: Object-Oriented Programming (OOP), Operating Systems (OS)
+
+---
+
+### 🔥 Notable Projects
+
+- **Thrift Connect [(KiraCodes6103/Hackfest_IITISM (github.com)](https://github.com/KiraCodes6103/Hackfest_IITISM)**: 
+Built a platform enabling users to rent and purchase second-hand items, selected as a Top 5 project in Hackfest 2022 by IIT Dhanbad.
+	- Engineered intuitive user interfaces for seamless listing and browsing, enhancing user experience.
+	- Enhanced platform search and filtering algorithms, improving search precision and performance for quicker, relevant results.
+  - Key tech stack: React.js, Next.js, Node.js, Express.js, MongoDB, Cloudinary
+
+- **Map My Health [KiraCodes6103/backend_mapmyhealth (github.com)](https://github.com/KiraCodes6103/Hackfest_IITISM)**: 
+Developed a user-friendly platform for managing doctor appointments and medical records.
+	- Implemented secure prescription management, enabling users to upload and store prescriptions as images, while allowing doctors to create, edit, and download prescriptions as PDFs.
+	- Integrated OTP-based authentication for doctors, ensuring secure access to sensitive medical records and reducing privacy breaches by 20%.
+	- Enhanced user experience through automated email notifications.
+  - Key tech stack: React.js, Node.js, Express.js, MongoDB, Google’s Mailing API
+
+---
+
+### ✨ Open Source Contributions
+
+This field is empty yet but not be soon :)
+
+---
+
+### 📫 Let's Connect
+
+- **[LinkedIn]([LinkedIn](https://www.linkedin.com/in/yashasvi-tripathi-114738222/))**
+- **Email**: yash6102003@gmail.com
