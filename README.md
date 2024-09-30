@@ -33,7 +33,6 @@ Developed a user-friendly platform for managing doctor appointments and medical 
 An extension designed to enhance the CSES platform experience by beautifying the interface, simplifying code submission, and motivating users with visually engaging charts that track their progress.
 	- Reduced user stress by allowing one-click code submission without browsing files.
 	- Helped users stay motivated by displaying progress stats via tables and graphs.
-	- Enhanced user experience through automated email notifications.
   - Key tech stack: JavaScript, Chart.js, CSS
 ---
 
