@@ -29,6 +29,12 @@ Developed a user-friendly platform for managing doctor appointments and medical 
 	- Enhanced user experience through automated email notifications.
   - Key tech stack: React.js, Node.js, Express.js, MongoDB, Google’s Mailing API
 
+- **CSES Problem Beautifier: [KiraCodes6103/cses-extension (github.com)](https://github.com/KiraCodes6103/cses-extension)**: 
+An extension designed to enhance the CSES platform experience by beautifying the interface, simplifying code submission, and motivating users with visually engaging charts that track their progress.
+	- Reduced user stress by allowing one-click code submission without browsing files.
+	- Helped users stay motivated by displaying progress stats via tables and graphs.
+	- Enhanced user experience through automated email notifications.
+  - Key tech stack: JavaScript, Chart.js, CSS
 ---
 
 ### ✨ Open Source Contributions
