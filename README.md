@@ -34,6 +34,7 @@ An extension designed to enhance the CSES platform experience by beautifying the
 	- Reduced user stress by allowing one-click code submission without browsing files.
 	- Helped users stay motivated by displaying progress stats via tables and graphs.
   - Key tech stack: JavaScript, Chart.js, CSS
+  - Extension Link of chrome-web-store: https://tinyurl.com/yf6f6m3n
 ---
 
 ### ✨ Open Source Contributions
