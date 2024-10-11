@@ -22,7 +22,7 @@ Built a platform enabling users to rent and purchase second-hand items, selected
 	- Enhanced platform search and filtering algorithms, improving search precision and performance for quicker, relevant results.
   - Key tech stack: React.js, Next.js, Node.js, Express.js, MongoDB, Cloudinary
 
-- **Map My Health [KiraCodes6103/backend_mapmyhealth (github.com)](https://github.com/KiraCodes6103/Hackfest_IITISM)**: 
+- **Map My Health [KiraCodes6103/backend_mapmyhealth (github.com)](https://github.com/KiraCodes6103/backend_mapmyhealth)**: 
 Developed a user-friendly platform for managing doctor appointments and medical records.
 	- Implemented secure prescription management, enabling users to upload and store prescriptions as images, while allowing doctors to create, edit, and download prescriptions as PDFs.
 	- Integrated OTP-based authentication for doctors, ensuring secure access to sensitive medical records and reducing privacy breaches by 20%.
